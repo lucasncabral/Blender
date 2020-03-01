@@ -7,11 +7,11 @@
 Videos: [Blender 2.8 Beginner Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
  
 
-**02 - Isometric**
+**02 - Isometric rooms**
  
-| Living room| Bedroom |
+ | Living room| Office |
 | ------------- |:-------------:|
-|<img src="Isometric/isometric01.jpg" |<img src="Isometric/isometric02.jpg"|
+|<img src="Isometric/isometric01.jpg"> |<img src="Isometric/isometric02.jpg">|
 
 Videos: [Blender Isometric Design : Room Low Poly](https://www.youtube.com/watch?v=H-8w9nxfMGE)
  
