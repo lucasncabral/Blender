@@ -20,6 +20,6 @@ Videos: [Blender Isometric Design : Room Low Poly](https://www.youtube.com/watch
  
  | Final        | Carvan side          | Carvan front |
 | ------------- |:-------------:| -----|
-|<img src="Caravan/Rendering/caravan.gif" width=270 height=270>|<img src="Caravan/Rendering/day5.png" width=320 height=180>|<img src="Caravan/Rendering/anim/0024.png" width=320 height=180>|
+|<img src="Caravan/Rendering/anim/caravan.gif" width=260 height=180>|<img src="Caravan/Rendering/day5.png" width=260 height=180>|<img src="Caravan/Rendering/anim/0024.png" width=260 height=180>|
 
 Videos: Anyone
