@@ -20,12 +20,12 @@ Videos: [Blender Isometric Design : Room Low Poly](https://www.youtube.com/watch
 
 | Final        | Caravan side     |
 | ------------- |:-------------:|
-|<img src="Caravan/Rendering/caravan.png">|<img src="Caravan/Rendering/caravan.gif">|
+|<img src="Caravan/Rendering/caravan.png">|<img src="Caravan/Rendering/anim/caravan.gif">|
 
 Videos: Anyone
 
 
-** 04 - Realistic Bathroom **
+**04 - Realistic Bathroom**
 
 | Front        |   Side   |
 | ------------- |:-------------:|
