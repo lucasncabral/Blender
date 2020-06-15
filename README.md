@@ -18,8 +18,18 @@ Videos: [Blender Isometric Design : Room Low Poly](https://www.youtube.com/watch
 
 **03 - Carvan**
  
- | Final        | Carvan side          | Carvan front |
-| ------------- |:-------------:| -----|
-|<img src="Caravan/Rendering/caravan.gif" width=270 height=270>|<img src="Caravan/Rendering/day5.png" width=320 height=180>|<img src="Caravan/Rendering/anim/0024.png" width=320 height=180>|
+| Final        | Caravan side     |
+| ------------- |:-------------:|
+|<img src="Caravan/Rendering/caravan.png">|<img src="Caravan/Rendering/caravan.gif">|
 
 Videos: Anyone
+
+
+** 04 - Realistic Bathroom **
+
+
+| Front        |   Side   |
+| ------------- |:-------------:|
+|<img src="Realistic/Bathroom/references/final01.png">|<img src="Realistic/Bathroom/references/final02.png">|
+
+Videos: [Blender architecture](https://www.blenderguru.com/tutorials/interior-architecture)
