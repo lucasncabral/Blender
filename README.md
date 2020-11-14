@@ -32,3 +32,11 @@ Videos: Anyone
 |<img src="Realistic/Bathroom/references/final01.png">|<img src="Realistic/Bathroom/references/final02.png">|
 
 Videos: [Blender architecture](https://www.blenderguru.com/tutorials/interior-architecture)
+
+** 05 - CrossMind tutorial **
+
+| Front        |   Side   |
+| ------------- |:-------------:|
+|<img src="Building/class1/building.png">|<img src="Building/class1/building.png">|
+
+Videos: [CrossMind](https://www.youtube.com/watch?v=e-fetDXDXX8&list=PLgO2ChD7acqH5S3fCO1GbAJC55NeVaCCp&ab_channel=CrossMindStudio)
